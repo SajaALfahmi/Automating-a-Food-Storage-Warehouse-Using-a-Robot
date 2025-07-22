@@ -33,3 +33,5 @@
 - Shelf height range: 0.5 m to 2 m.
 - Robot navigation range: up to 15 meters.
 - Maximum load capacity: 5 kg per item.
+
+  This project demonstrates a practical approach to automating food storage operations in a warehouse using a mobile robot equipped with a robotic arm. By integrating sensor calibration, item detection, path navigation, and database updates, the system ensures efficient and organized item handling. The proposed algorithm and working envelope are designed to optimize storage accuracy, reduce manual labor, and improve overall warehouse productivity. This automation model can be further enhanced with real-time monitoring, obstacle avoidance, and AI-driven optimization for future scalability.
